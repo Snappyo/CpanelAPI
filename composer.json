@@ -1,5 +1,5 @@
 {
-    "name": "cPanel/cpanel-php",
+    "name": "cPanelConnector",
     "description": "CpanelConnector",
     "license": "MIT",
     "authors": [
