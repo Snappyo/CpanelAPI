@@ -1,0 +1,24 @@
+{
+    "name": "cPanel/cpanel-php",
+    "description": "CpanelConnector",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Owen",
+            "email": "dev@snappyhost.co.uk"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0",
+        "guzzlehttp/guzzle":"7.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.8"
+    },
+    "autoload": {
+        "psr-0": {
+            "Gufy\\CpanelPhp\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
